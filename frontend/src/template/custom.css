@@ -1,0 +1,26 @@
+body {
+  background-color: ghostwhite;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.markedAsDone {
+  color: #777;
+  text-decoration: line-through;
+}
+
+.todoForm {
+  padding-bottom: 60px;
+}
+
+.tableDescription {
+  width: 90%;
+}
+
+small {
+  margin-left: 10px;
+}
