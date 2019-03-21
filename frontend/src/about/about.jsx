@@ -4,7 +4,7 @@ import PageHeader from '../template/pageHeader'
 export default props => (
   <div>
     <PageHeader name='About' small='Us'></PageHeader>
-    <div>
+    <div className='aboutText'>
       Cat ipsum dolor sit amet, meowzer scratch leg;
       meow for can opener to feed me cats are fats i like to
       pets them they like to meow back and cats are cute.
